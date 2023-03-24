@@ -25,5 +25,4 @@ TODO:
 - Add yaw calculation
 - Send raw and yaw/pitch/roll data via http to computer
 - Link with OpenVR/SteamVR (Potential Monado Support)
-- 3D print case for back of head
-
+- 3D print case for back of head (Houses controller electronics, back of head for weight distribution)
