@@ -9,6 +9,7 @@ Current hardware:
 - Additional 2 MPU 6050 for controllers
 - 360 and Xone kinect for full body tracking
 - Tang Nano 9K FPGA (Potential future use for onboard rendering, etc)
+
 Future Hardware List:
 - MIPI-HDMI 2K 120hz displays (Aliexpress - ~$110 AUD)
 
